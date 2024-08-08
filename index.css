@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0%;
+    background-color: azure;
+}
+div{
+    float: left;
+    text-shadow: 29px;
+}
